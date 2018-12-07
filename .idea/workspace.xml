@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="798935b7-3f2b-4fdd-877e-dfd414c92611" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Customer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Gender.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/GlobalConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Name.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Period.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Person.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/test/Animal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/test/Cat.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/java_learning.iml" afterPath="$PROJECT_DIR$/java_learning.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Dog.class" afterPath="$PROJECT_DIR$/target/classes/Dog.class" />
-    </list>
+    <list default="true" id="798935b7-3f2b-4fdd-877e-dfd414c92611" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,8 +110,8 @@
       <file leaf-file-name="Name.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Name.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="60" column="31" lean-forward="false" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+            <state relative-caret-position="209">
+              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#342#343#0" expanded="true" />
@@ -505,12 +489,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543974545301</updated>
       <workItem from="1543974559504" duration="887000" />
-      <workItem from="1543978042609" duration="30747000" />
+      <workItem from="1543978042609" duration="30887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31634000" />
+    <option name="totallyTimeSpent" value="31774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-149" width="1616" height="876" extended-state="6" />
@@ -525,7 +509,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8133159" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -854,8 +838,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Name.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="60" column="31" lean-forward="false" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+        <state relative-caret-position="209">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
