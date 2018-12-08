@@ -60,6 +60,8 @@ public class Name {
         System.out.println(n2);
         System.out.println(n3);
         System.out.println(n1 == n2);
+        System.gc();
+        Runtime.getRuntime().gc();
     }
 
 }
