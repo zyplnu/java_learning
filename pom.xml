@@ -29,8 +29,21 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.13</version>
+      <version>5.1.28</version>
     </dependency>
+
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi-excelant</artifactId>
+      <version>3.14</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.mybatis</groupId>
+      <artifactId>mybatis</artifactId>
+      <version>3.4.2</version>
+    </dependency>
+
   </dependencies>
 
   <build>
