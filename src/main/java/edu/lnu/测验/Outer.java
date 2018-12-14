@@ -14,7 +14,7 @@ public class Outer {
 
 
         class Inner{
-            int v = t;
+//            int v = t;
             public void method(){
     //            System.out.println(w);
                 System.out.println(z);
