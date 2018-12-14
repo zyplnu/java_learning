@@ -17,7 +17,7 @@ public class A{
 
     public void test(){
         final int d;
-        class D{
+        final class D{
             int da;
         }
     }
