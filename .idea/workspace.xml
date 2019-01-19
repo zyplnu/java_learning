@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798935b7-3f2b-4fdd-877e-dfd414c92611" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/io/CharArrayReaderTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/io/StringReaderTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Animal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Base.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/DeadMachine.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Dog.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Machine.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Sub.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/数组/Swaper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/数组/Variable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/正则/RegulerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/io/CharArrayWriterTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/io/InputStreamReaderTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/java_learning.iml" afterPath="$PROJECT_DIR$/java_learning.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Name.java" afterPath="$PROJECT_DIR$/src/main/java/Name.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Name.class" afterPath="$PROJECT_DIR$/target/classes/Name.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/lnu/局部内部类/A$1D.class" afterPath="$PROJECT_DIR$/target/classes/edu/lnu/局部内部类/A$1D.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/lnu/局部内部类/A.class" afterPath="$PROJECT_DIR$/target/classes/edu/lnu/局部内部类/A.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,11 +17,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/HashMap.java">
+      <file leaf-file-name="StringReader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/StringReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17325">
-              <caret line="866" column="9" lean-forward="false" selection-start-line="866" selection-start-column="9" selection-end-line="866" selection-end-column="9" />
+            <state relative-caret-position="566">
+              <caret line="198" column="9" lean-forward="true" selection-start-line="198" selection-start-column="9" selection-end-line="198" selection-end-column="9" />
+              <folding>
+                <element signature="e#5592#5593#0" expanded="true" />
+                <element signature="e#5618#5619#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputStreamReader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/InputStreamReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="70" column="11" lean-forward="false" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/Reader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="75" column="14" lean-forward="false" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -49,60 +53,21 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1554">
+            <state relative-caret-position="671">
               <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Name.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Name.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="58" column="46" lean-forward="true" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CharArrayReader.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/CharArrayReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CharArrayReaderTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/CharArrayReaderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#20560#20561#0" expanded="true" />
+                <element signature="e#20604#20605#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringReader.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/StringReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="47" column="11" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringReaderTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringReaderTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/StringReaderTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
-              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,34 +75,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CharReader.class" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk1.7.0_17/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/CharReader.class">
+      <file leaf-file-name="InputStreamReaderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/InputStreamReaderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="252">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegulerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/正则/RegulerTest.java">
+      <file leaf-file-name="CharArrayWriterTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/CharArrayWriterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/InputStream.java">
+      <file leaf-file-name="FileReader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/FileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4914">
-              <caret line="257" column="15" lean-forward="false" selection-start-line="257" selection-start-column="15" selection-end-line="257" selection-end-column="15" />
+            <state relative-caret-position="245">
+              <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
               <folding>
-                <element signature="e#15668#15669#0" expanded="true" />
-                <element signature="e#15696#15697#0" expanded="true" />
+                <element signature="e#2084#2085#0" expanded="true" />
+                <element signature="e#2130#2131#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BufferedReader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/BufferedReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+              <folding>
+                <element signature="e#2805#2806#0" expanded="true" />
+                <element signature="e#2852#2853#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -179,8 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/MyClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/lnu/test/Animal.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/lnu/test/Cat.java" />
         <option value="$PROJECT_DIR$/src/main/java/GlobalConfig.java" />
@@ -230,6 +216,8 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/io/CharArrayReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/io/CharArrayReaderTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/io/StringReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/io/InputStreamReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/io/CharArrayWriterTest.java" />
       </list>
     </option>
   </component>
@@ -374,7 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringReaderTest">
+  <component name="RunManager" selected="Application.CharArrayWriterTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -401,9 +389,14 @@
       <module name="java_learning" />
       <envs />
     </configuration>
-    <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Name" />
+    <configuration name="CharArrayWriterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="edu.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="edu.io.CharArrayWriterTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -415,14 +408,28 @@
       <module name="java_learning" />
       <envs />
     </configuration>
-    <configuration name="RegulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InputStreamReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="正则.*" />
+          <option name="PATTERN" value="edu.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="正则.RegulerTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.io.InputStreamReaderTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java_learning" />
+      <envs />
+    </configuration>
+    <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Name" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -442,25 +449,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="edu.io.StringReaderTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java_learning" />
-      <envs />
-    </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="edu.lnu.数组.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="edu.lnu.数组.Variable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -547,19 +535,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Variable" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Name" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RegulerTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CharArrayReaderTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.StringReaderTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Name" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CharArrayReaderTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StringReaderTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.InputStreamReaderTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CharArrayWriterTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.StringReaderTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CharArrayReaderTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Name" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RegulerTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Variable" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CharArrayWriterTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InputStreamReaderTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StringReaderTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CharArrayReaderTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Name" />
       </list>
     </recent_temporary>
   </component>
@@ -595,16 +583,15 @@
       <workItem from="1546513703524" duration="153000" />
       <workItem from="1546516312907" duration="1698000" />
       <workItem from="1547601761119" duration="5543000" />
-      <workItem from="1547777114831" duration="2464000" />
+      <workItem from="1547777114831" duration="6077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128809000" />
+    <option name="totallyTimeSpent" value="132422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-149" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -616,10 +603,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06149341" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9007833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.81070495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.81070495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29282576" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -677,62 +664,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部类/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部类/Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/局部内部类/SubOuter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/MyToll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/回调/Adjustable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1051,6 +982,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4473">
           <caret line="240" column="15" lean-forward="false" selection-start-line="240" selection-start-column="15" selection-end-line="240" selection-end-column="15" />
+          <folding>
+            <element signature="e#10180#10181#0" expanded="false" />
+            <element signature="e#10263#10264#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1088,8 +1023,8 @@
         <state relative-caret-position="2478">
           <caret line="141" column="11" lean-forward="false" selection-start-line="141" selection-start-column="11" selection-end-line="141" selection-end-column="11" />
           <folding>
-            <element signature="e#5632#5633#0" expanded="true" />
-            <element signature="e#5665#5666#0" expanded="true" />
+            <element signature="e#5632#5633#0" expanded="false" />
+            <element signature="e#5665#5666#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1099,8 +1034,8 @@
         <state relative-caret-position="1533">
           <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
           <folding>
-            <element signature="e#7993#7994#0" expanded="true" />
-            <element signature="e#8041#8042#0" expanded="true" />
+            <element signature="e#7993#7994#0" expanded="false" />
+            <element signature="e#8041#8042#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1109,14 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17325">
           <caret line="866" column="9" lean-forward="false" selection-start-line="866" selection-start-column="9" selection-end-line="866" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1554">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1134,8 +1061,8 @@
         <state relative-caret-position="4914">
           <caret line="257" column="15" lean-forward="false" selection-start-line="257" selection-start-column="15" selection-end-line="257" selection-end-column="15" />
           <folding>
-            <element signature="e#15668#15669#0" expanded="true" />
-            <element signature="e#15696#15697#0" expanded="true" />
+            <element signature="e#15668#15669#0" expanded="false" />
+            <element signature="e#15696#15697#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1143,7 +1070,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Name.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
-          <caret line="58" column="46" lean-forward="true" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+          <caret line="58" column="46" lean-forward="false" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -1152,14 +1079,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+          <folding>
+            <marker date="1543158358425" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1543158358425" expanded="false" signature="285:296" ph=" { " />
+            <marker date="1543158358425" expanded="false" signature="318:324" ph=" }" />
+            <marker date="1543158358425" expanded="false" signature="383:394" ph=" { " />
+            <marker date="1543158358425" expanded="false" signature="421:427" ph=" }" />
+            <marker date="1543158358425" expanded="false" signature="457:468" ph=" { " />
+            <marker date="1543158358425" expanded="false" signature="484:490" ph=" }" />
+            <marker date="1543158358425" expanded="false" signature="517:528" ph=" { " />
+            <marker date="1543158358425" expanded="false" signature="546:552" ph=" }" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/CharArrayReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+          <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1174,21 +1111,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1582">
+          <caret line="275" column="22" lean-forward="false" selection-start-line="275" selection-start-column="22" selection-end-line="275" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/StringReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="47" column="11" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="566">
+          <caret line="198" column="9" lean-forward="true" selection-start-line="198" selection-start-column="9" selection-end-line="198" selection-end-column="9" />
+          <folding>
+            <element signature="e#5592#5593#0" expanded="true" />
+            <element signature="e#5618#5619#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/StringReaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="70" column="11" lean-forward="false" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="75" column="14" lean-forward="false" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding>
+            <element signature="e#20560#20561#0" expanded="true" />
+            <element signature="e#20604#20605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+          <folding>
+            <element signature="e#2805#2806#0" expanded="true" />
+            <element signature="e#2852#2853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <element signature="e#2084#2085#0" expanded="true" />
+            <element signature="e#2130#2131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/InputStreamReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/CharArrayWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
