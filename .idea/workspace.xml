@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798935b7-3f2b-4fdd-877e-dfd414c92611" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/A.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/C.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/D.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/回调/Adjustable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/回调/Base.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/回调/Client.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/回调/Sub.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/测验/Outer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/io/CharArrayReaderTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/io/StringReaderTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Animal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Base.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/DeadMachine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Dog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Machine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Sub.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/数组/Swaper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/数组/Variable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/正则/RegulerTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/lnu/局部内部类/A.java" afterPath="$PROJECT_DIR$/src/main/java/edu/lnu/局部内部类/A.java" />
+      <change beforePath="$PROJECT_DIR$/java_learning.iml" afterPath="$PROJECT_DIR$/java_learning.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Name.java" afterPath="$PROJECT_DIR$/src/main/java/Name.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Name.class" afterPath="$PROJECT_DIR$/target/classes/Name.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/lnu/局部内部类/A$1D.class" afterPath="$PROJECT_DIR$/target/classes/edu/lnu/局部内部类/A$1D.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/lnu/局部内部类/A.class" afterPath="$PROJECT_DIR$/target/classes/edu/lnu/局部内部类/A.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,117 +36,109 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/C.java">
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="17325">
+              <caret line="866" column="9" lean-forward="false" selection-start-line="866" selection-start-column="9" selection-end-line="866" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="D.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/D.java">
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1554">
+              <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Name.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Name.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="58" column="46" lean-forward="true" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharArrayReader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/CharArrayReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharArrayReaderTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/CharArrayReaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringReader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/StringReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="47" column="11" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringReaderTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/StringReaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharReader.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/CharReader.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyToll.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部接口/MyToll.java">
+      <file leaf-file-name="RegulerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/正则/RegulerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="168">
+              <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/InputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4914">
+              <caret line="257" column="15" lean-forward="false" selection-start-line="257" selection-start-column="15" selection-end-line="257" selection-end-column="15" />
               <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#15668#15669#0" expanded="true" />
+                <element signature="e#15696#15697#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Adjustable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/回调/Adjustable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sub.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/回调/Sub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/回调/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Outer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/局部内部类/Outer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/局部内部类/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Outer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/测验/Outer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/回调/Base.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -154,10 +158,15 @@
     <findStrings>
       <find>equals</find>
       <find>hashCodwe</find>
-      <find>hashCode</find>
       <find>finalize</find>
       <find>get</find>
+      <find>parallelSort</find>
+      <find>hashCode</find>
+      <find>^[A-Z]?</find>
     </findStrings>
+    <replaceStrings>
+      <replace>s</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,13 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/Sample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/URLClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/URLClassLoaderTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/MyClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/test/Sample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/test/Dog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Sample.java" />
         <option value="$PROJECT_DIR$/src/main/java/MyClassLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/lnu/test/Animal.java" />
@@ -185,7 +187,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Gender.java" />
         <option value="$PROJECT_DIR$/src/main/java/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/Period.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Name.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ghost.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stack.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reference.java" />
@@ -193,7 +194,6 @@
         <option value="$PROJECT_DIR$/src/main/java/MapCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThreadLocalTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Dog.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/edu/lnu/HashMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/lnu/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/lnu/test/Outer.java" />
@@ -215,6 +215,21 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/lnu/回调/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/lnu/局部内部类/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/lnu/测验/Outer.java" />
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Sub.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/DeadMachine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Machine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/数组/Swaper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/lnu/数组/Variable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/正则/RegulerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Name.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/io/CharArrayReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/io/CharArrayReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/io/StringReaderTest.java" />
       </list>
     </option>
   </component>
@@ -237,9 +252,31 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java_learning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java_learning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java_learning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.sun.mail:javax.mail:1.5.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1525" />
-    <option name="y" value="55" />
+    <option name="x" value="1398" />
+    <option name="y" value="-87" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
   </component>
@@ -261,6 +298,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -294,7 +332,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lnu" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
@@ -302,59 +340,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lnu" type="462c0819:PsiDirectoryNode" />
-              <item name="内部接口" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lnu" type="462c0819:PsiDirectoryNode" />
-              <item name="内部类" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lnu" type="462c0819:PsiDirectoryNode" />
-              <item name="回调" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lnu" type="462c0819:PsiDirectoryNode" />
-              <item name="局部内部类" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lnu" type="462c0819:PsiDirectoryNode" />
-              <item name="测验" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trans" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hadoop" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -373,7 +374,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubOuter">
+  <component name="RunManager" selected="Application.StringReaderTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -381,14 +382,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CharArrayReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="edu.lnu.*" />
+          <option name="PATTERN" value="edu.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="edu.lnu.HashMapTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.io.CharArrayReaderTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -400,14 +401,9 @@
       <module name="java_learning" />
       <envs />
     </configuration>
-    <configuration name="Out" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="edu.lnu.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="edu.lnu.test.Out" />
+    <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Name" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -419,14 +415,14 @@
       <module name="java_learning" />
       <envs />
     </configuration>
-    <configuration name="SubOuter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RegulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="edu.lnu.局部内部类.*" />
+          <option name="PATTERN" value="正则.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="edu.lnu.局部内部类.SubOuter" />
+      <option name="MAIN_CLASS_NAME" value="正则.RegulerTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -438,14 +434,14 @@
       <module name="java_learning" />
       <envs />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="StringReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="edu.lnu.*" />
+          <option name="PATTERN" value="edu.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="edu.lnu.Test" />
+      <option name="MAIN_CLASS_NAME" value="edu.io.StringReaderTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -457,14 +453,14 @@
       <module name="java_learning" />
       <envs />
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="edu.lnu.test.*" />
+          <option name="PATTERN" value="edu.lnu.数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="edu.lnu.test.Tester" />
+      <option name="MAIN_CLASS_NAME" value="edu.lnu.数组.Variable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -551,19 +547,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HashMapTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Tester" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Out" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SubOuter" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Variable" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Name" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RegulerTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CharArrayReaderTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StringReaderTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SubOuter" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Out" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Tester" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HashMapTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StringReaderTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CharArrayReaderTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Name" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RegulerTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -571,7 +567,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -585,12 +581,26 @@
       <updated>1543974545301</updated>
       <workItem from="1543974559504" duration="887000" />
       <workItem from="1543978042609" duration="54440000" />
-      <workItem from="1544613245144" duration="19135000" />
+      <workItem from="1544613245144" duration="35726000" />
+      <workItem from="1544868195233" duration="6836000" />
+      <workItem from="1545033567146" duration="3173000" />
+      <workItem from="1545049128212" duration="3144000" />
+      <workItem from="1545354714892" duration="1172000" />
+      <workItem from="1545531827875" duration="248000" />
+      <workItem from="1545616326380" duration="3724000" />
+      <workItem from="1545901126103" duration="4813000" />
+      <workItem from="1546432912150" duration="2817000" />
+      <workItem from="1546480585614" duration="791000" />
+      <workItem from="1546493910689" duration="1180000" />
+      <workItem from="1546513703524" duration="153000" />
+      <workItem from="1546516312907" duration="1698000" />
+      <workItem from="1547601761119" duration="5543000" />
+      <workItem from="1547777114831" duration="2464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74462000" />
+    <option name="totallyTimeSpent" value="128809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-149" width="1616" height="876" extended-state="6" />
@@ -598,18 +608,19 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767624" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06149341" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8133159" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9007833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.81070495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29282576" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -620,7 +631,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -662,360 +672,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Period.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#382#383#0" expanded="false" />
-            <element signature="e#430#431#0" expanded="false" />
-            <element signature="e#458#459#0" expanded="false" />
-            <element signature="e#504#505#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="234" column="0" lean-forward="true" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="84" column="18" lean-forward="true" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="564" column="32" lean-forward="false" selection-start-line="564" selection-start-column="20" selection-end-line="564" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="488" column="60" lean-forward="false" selection-start-line="488" selection-start-column="60" selection-end-line="488" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/ref/SoftReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="65" column="7" lean-forward="true" selection-start-line="65" selection-start-column="7" selection-end-line="65" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/ref/ReferenceQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/ref/WeakReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/ref/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReferenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="2054" column="43" lean-forward="false" selection-start-line="2054" selection-start-column="43" selection-end-line="2054" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/InheritableThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="69" column="19" lean-forward="false" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="212" column="23" lean-forward="false" selection-start-line="212" selection-start-column="23" selection-end-line="212" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="178" column="35" lean-forward="false" selection-start-line="178" selection-start-column="35" selection-end-line="178" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MapCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="61" column="33" lean-forward="false" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/WeakHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4116">
-          <caret line="220" column="31" lean-forward="false" selection-start-line="220" selection-start-column="31" selection-end-line="220" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ghost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#246#247#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-            <element signature="e#309#310#0" expanded="false" />
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#732#733#0" expanded="false" />
-            <element signature="e#791#792#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding>
-            <element signature="e#215#216#0" expanded="false" />
-            <element signature="e#242#243#0" expanded="false" />
-            <element signature="e#282#283#0" expanded="false" />
-            <element signature="e#314#315#0" expanded="false" />
-            <element signature="e#347#348#0" expanded="false" />
-            <element signature="e#376#377#0" expanded="false" />
-            <element signature="e#420#421#0" expanded="false" />
-            <element signature="e#456#457#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreadLocalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="44" column="1" lean-forward="false" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-          <folding>
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#464#465#0" expanded="false" />
-            <element signature="e#510#511#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Name.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#342#343#0" expanded="false" />
-            <element signature="e#374#375#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-            <element signature="e#440#441#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="119" column="21" lean-forward="false" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15183">
-          <caret line="770" column="31" lean-forward="false" selection-start-line="770" selection-start-column="31" selection-end-line="770" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql-connector-java-8.0.13.jar/com/mysql/cj/x/protobuf/Mysqlx.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1544529129505" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1544529129505" expanded="true" signature="2253:2260" ph="{}" />
-            <marker date="1544529129505" expanded="true" signature="2339:2424" ph="{...}" />
-            <marker date="1544529129505" expanded="true" signature="2499:2570" ph="{...}" />
-            <marker date="1544529129505" expanded="false" signature="2620:2631" ph=" { " />
-            <marker date="1544529129505" expanded="false" signature="2649:2655" ph=" }" />
-            <marker date="1544529129505" expanded="true" signature="2668:6683" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="41" column="29" lean-forward="false" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="540" column="73" lean-forward="false" selection-start-line="540" selection-start-column="65" selection-end-line="540" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="749" column="21" lean-forward="true" selection-start-line="749" selection-start-column="21" selection-end-line="749" selection-end-column="21" />
-          <folding>
-            <element signature="e#26889#26890#0" expanded="false" />
-            <element signature="e#26917#26918#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#149#150#0" expanded="false" />
-            <element signature="e#175#176#0" expanded="false" />
-            <element signature="e#274#296#0" expanded="false" />
-            <element signature="e#1558#1559#0" expanded="false" />
-            <element signature="e#1609#1610#0" expanded="false" />
-            <element signature="e#1644#1645#0" expanded="false" />
-            <element signature="e#1670#1671#0" expanded="false" />
-            <element signature="e#1699#1700#0" expanded="false" />
-            <element signature="e#1723#1724#0" expanded="false" />
-            <element signature="e#1752#1753#0" expanded="false" />
-            <element signature="e#1797#1798#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="1445" column="18" lean-forward="false" selection-start-line="1445" selection-start-column="18" selection-end-line="1445" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/test/Outer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding>
-            <element signature="e#104#105#0" expanded="false" />
-            <element signature="e#140#141#0" expanded="false" />
-            <element signature="e#238#239#0" expanded="false" />
-            <element signature="e#283#284#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/test/Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/test/Out.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#303#304#0" expanded="false" />
-            <element signature="e#347#348#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/test/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/内部类/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
           <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding>
-            <element signature="e#269#270#0" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,10 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding>
-            <element signature="e#102#103#0" expanded="false" />
-            <element signature="e#165#166#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1042,10 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#144#255#0" expanded="false" />
-            <element signature="e#254#255#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1053,7 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1069,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,10 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1088,15 +737,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/回调/Base.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1104,35 +751,194 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/回调/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/局部内部类/Outer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/测验/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/edu.lnu:java_learning:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>edu.lnu:java_learning:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="341.0" y="415.0">edu.lnu:java_learning:1.0-SNAPSHOT</node>
+            <node x="30.0" y="324.0">junit:junit:jar:4.11</node>
+            <node x="0.0" y="243.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="108.0" y="324.0">mysql:mysql-connector-java:jar:5.1.28</node>
+            <node x="287.0" y="324.0">org.apache.poi:poi-excelant:jar:3.14</node>
+            <node x="299.75" y="162.0">org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi:jar:3.14</node>
+            <node x="260.75" y="81.0">org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi:jar:3.14/commons-codec:commons-codec:jar:1.10</node>
+            <node x="182.72587719298244" y="243.0">org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14</node>
+            <node x="21.75" y="162.0">org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/org.apache.poi:poi-ooxml-schemas:jar:3.14</node>
+            <node x="51.75" y="81.0">org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/org.apache.poi:poi-ooxml-schemas:jar:3.14/org.apache.xmlbeans:xmlbeans:jar:2.6.0</node>
+            <node x="56.25" y="0.0">org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/org.apache.poi:poi-ooxml-schemas:jar:3.14/org.apache.xmlbeans:xmlbeans:jar:2.6.0/stax:stax-api:jar:1.0.1</node>
+            <node x="190.75" y="162.0">org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/com.github.virtuald:curvesapi:jar:1.03</node>
+            <node x="456.9890350877193" y="243.0">org.apache.poi:poi-excelant:jar:3.14/org.apache.ant:ant:jar:1.8.2</node>
+            <node x="429.9890350877193" y="162.0">org.apache.poi:poi-excelant:jar:3.14/org.apache.ant:ant:jar:1.8.2/org.apache.ant:ant-launcher:jar:1.8.2</node>
+            <node x="412.0" y="324.0">org.mybatis:mybatis:jar:3.4.2</node>
+            <node x="511.0" y="324.0">log4j:log4j:jar:1.2.14</node>
+            <node x="594.0" y="324.0">com.sun.mail:javax.mail:jar:1.5.0</node>
+            <node x="594.5" y="243.0">com.sun.mail:javax.mail:jar:1.5.0/javax.activation:activation:jar:1.1</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi:jar:3.14">
+              <point x="31.333333333333314" y="-15.5" />
+              <point x="261.0592105263157" y="218.0" />
+              <point x="313.0" y="218.0" />
+              <point x="-13.25" y="15.5" />
+            </edge>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/org.apache.poi:poi-ooxml-schemas:jar:3.14">
+              <point x="-31.333333333333314" y="-15.5" />
+              <point x="198.39254385964912" y="218.0" />
+              <point x="96.25" y="218.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="com.sun.mail:javax.mail:jar:1.5.0" target="com.sun.mail:javax.mail:jar:1.5.0/javax.activation:activation:jar:1.1">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="edu.lnu:java_learning:1.0-SNAPSHOT" target="com.sun.mail:javax.mail:jar:1.5.0">
+              <point x="45.416666666666686" y="-15.5" />
+              <point x="440.9166666666667" y="395.0" />
+              <point x="639.0" y="395.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/com.github.virtuald:curvesapi:jar:1.03">
+              <point x="0.0" y="-15.5" />
+              <point x="229.72587719298244" y="218.0" />
+              <point x="235.25" y="218.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="edu.lnu:java_learning:1.0-SNAPSHOT" target="org.apache.poi:poi-excelant:jar:3.14">
+              <point x="-9.083333333333314" y="-15.5" />
+              <point x="386.4166666666667" y="375.0" />
+              <point x="339.5" y="375.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/org.apache.poi:poi-ooxml-schemas:jar:3.14" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/org.apache.poi:poi-ooxml-schemas:jar:3.14/org.apache.xmlbeans:xmlbeans:jar:2.6.0">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="edu.lnu:java_learning:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.14">
+              <point x="27.25" y="-15.5" />
+              <point x="422.75" y="385.0" />
+              <point x="542.5" y="385.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi:jar:3.14">
+              <point x="0.0" y="-15.5" />
+              <point x="13.25" y="15.5" />
+            </edge>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14/org.apache.ant:ant:jar:1.8.2" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.ant:ant:jar:1.8.2/org.apache.ant:ant-launcher:jar:1.8.2">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="edu.lnu:java_learning:1.0-SNAPSHOT" target="org.mybatis:mybatis:jar:3.4.2">
+              <point x="9.083333333333314" y="-15.5" />
+              <point x="404.5833333333333" y="375.0" />
+              <point x="451.5" y="375.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="edu.lnu:java_learning:1.0-SNAPSHOT" target="junit:junit:jar:4.11">
+              <point x="-45.416666666666686" y="-15.5" />
+              <point x="350.0833333333333" y="395.0" />
+              <point x="59.0" y="395.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi:jar:3.14" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi:jar:3.14/commons-codec:commons-codec:jar:1.10">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.ant:ant:jar:1.8.2">
+              <point x="35.0" y="-15.5" />
+              <point x="374.5" y="299.0" />
+              <point x="482.9890350877193" y="299.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14">
+              <point x="-35.0" y="-15.5" />
+              <point x="304.5" y="299.0" />
+              <point x="229.72587719298244" y="299.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/org.apache.poi:poi-ooxml-schemas:jar:3.14/org.apache.xmlbeans:xmlbeans:jar:2.6.0" target="org.apache.poi:poi-excelant:jar:3.14/org.apache.poi:poi-ooxml:jar:3.14/org.apache.poi:poi-ooxml-schemas:jar:3.14/org.apache.xmlbeans:xmlbeans:jar:2.6.0/stax:stax-api:jar:1.0.1">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="edu.lnu:java_learning:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.28">
+              <point x="-27.25" y="-15.5" />
+              <point x="368.25" y="385.0" />
+              <point x="187.5" y="385.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.2329545454545454" x="192.0" y="175.0" />
+          <SelectedNodes>
+            <node>junit:junit:jar:4.11</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1140,15 +946,249 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Sub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/IllegalThreadStateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13566">
+          <caret line="699" column="28" lean-forward="false" selection-start-line="699" selection-start-column="28" selection-end-line="699" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/多线程/DeadMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="36" column="55" lean-forward="false" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/IndexOutOfBoundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="37" column="46" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14868">
+          <caret line="755" column="40" lean-forward="false" selection-start-line="755" selection-start-column="40" selection-end-line="755" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/多线程/Machine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89649">
+          <caret line="4303" column="0" lean-forward="false" selection-start-line="4303" selection-start-column="0" selection-end-line="4303" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/IllegalArgumentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37737">
+          <caret line="1850" column="5" lean-forward="false" selection-start-line="1850" selection-start-column="5" selection-end-line="1850" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/数组/Swaper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/数组/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4473">
+          <caret line="240" column="15" lean-forward="false" selection-start-line="240" selection-start-column="15" selection-end-line="240" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4221">
+          <caret line="224" column="12" lean-forward="false" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/lnu/测验/Outer.java">
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/NavigableSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="1092">
+          <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4452">
+          <caret line="254" column="27" lean-forward="false" selection-start-line="254" selection-start-column="27" selection-end-line="254" selection-end-column="27" />
+          <folding>
+            <element signature="e#3948#3949#0" expanded="false" />
+            <element signature="e#3974#3975#0" expanded="false" />
+            <element signature="e#9664#9665#0" expanded="false" />
+            <element signature="e#9710#9711#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2478">
+          <caret line="141" column="11" lean-forward="false" selection-start-line="141" selection-start-column="11" selection-end-line="141" selection-end-column="11" />
+          <folding>
+            <element signature="e#5632#5633#0" expanded="true" />
+            <element signature="e#5665#5666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding>
+            <element signature="e#7993#7994#0" expanded="true" />
+            <element signature="e#8041#8042#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17325">
+          <caret line="866" column="9" lean-forward="false" selection-start-line="866" selection-start-column="9" selection-end-line="866" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/正则/RegulerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="63" lean-forward="false" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4914">
+          <caret line="257" column="15" lean-forward="false" selection-start-line="257" selection-start-column="15" selection-end-line="257" selection-end-column="15" />
+          <folding>
+            <element signature="e#15668#15669#0" expanded="true" />
+            <element signature="e#15696#15697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="58" column="46" lean-forward="true" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/CharReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/CharArrayReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/CharArrayReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.7.0_17/src.zip!/java/io/StringReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="47" column="11" lean-forward="false" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/io/StringReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

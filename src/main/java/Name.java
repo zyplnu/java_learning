@@ -1,6 +1,8 @@
+import java.io.ByteArrayInputStream;
 import java.lang.ref.SoftReference;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 public class Name {
 
@@ -53,15 +55,16 @@ public class Name {
     }
 
     public static void main(String[] args) {
-        Name n1 = Name.valueOf("小红" , "王");
-        Name n2 = Name.valueOf("小红" , "王");
-        Name n3 = Name.valueOf("小东" , "张");
-        System.out.println(n1);
-        System.out.println(n2);
-        System.out.println(n3);
-        System.out.println(n1 == n2);
-        System.gc();
-        Runtime.getRuntime().gc();
+        byte[] buff = new byte[]{2,15,67,-1,-9,9};
+        ByteArrayInputStream in = new ByteArrayInputStream(buff , 1, 4);
+        int data = in.read();
+        while(data != -1){
+            System.out.println(data + " " );
+            data = in.read();
+        }
+        byte b1 = -9;
+        int a1 = b1;
+        System.out.println(a1);
     }
 
 }
