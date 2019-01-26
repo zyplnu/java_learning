@@ -1,0 +1,81 @@
+java输入流和输出流
+
+1、字节输入流： 
+
+			InputStream ---->   ByteArrayInputStream : 把字节数组转化为输入流 
+
+						  		FileInputStream ： 文件输入流，从文件中读取数据
+						  
+						  		PipedInputStream ： 从一个管道输出流中读取数据，通常由一个线程向管道输出流中 写数据，另一个线程从管道输入流中读取数据，两个线程可以用管道进行通信
+
+						  		SequenceInputStream ： 将几个输入流串联在一起，合并为一个输入流
+
+						  		ObjectInputStream ： 
+
+						  		FilterInputStream       ---->    BufferedInputStream ： 利用缓冲区来提高读效率
+
+						  										 DataInputStream ： 按照与平台无关的方式从流中读取基本类型（int、char、long）的数据
+
+						  										 PushbackInputStream ： 有一个后推缓冲区，用于存放已经读入的当前字节。
+
+
+2、字节输出流：
+
+		OutputStream  ----->   ByteArrayOutputStream : 向字节数组中写数据
+
+							   FileOutputStream : 向文件中写数据
+
+							   PipedOutputStream ： 向管道中输出数据，与PipedInputStream搭配使用
+
+							   ObjectOutputStream ： 对象输出流
+
+							   FilterOutputStream   ---->    BufferedOutputStream ： 利用缓冲区来提高写相率
+
+							   								 DataOutputStream ： 与DataInputStream搭配使用，可以按照与平台无关的方式向流中写基本类型（int、char、long等）的数据
+
+							   								 PrintStream ： 输出格式化的数据
+
+
+  【注意：为了保证BufferedOutputStream会把缓冲区中的数据写入到文件中，一种办法是调用flush()方法，该方法立即执行一次把缓冲区的数据写到输出流中的操作，例如：outer.flush()；还有一种方法是在执行完输出流的所有writer()方法后，关闭所有输出流。过滤输出流的close()的方法会先调用本身，以及被装饰的输出流的flush()方法，这样会保证加入过滤流本身或者被装饰的流带有缓冲区，那么缓冲区的数据会被写入到数据汇中，例如：out.close()】						
+
+
+
+
+3、字符输入流：
+
+		Reader  ---->   CharArrayReader ： 从内存中的字符数组中读取字符
+
+						BufferedReader ： 带有缓冲区，装饰其他Reader ---> LineNumberReader
+
+						StringReader ： 把字符串类型转化为Reader类型，使程序能够对字符串进行读操作
+
+						PipedReader : 连接一个PipedWriter
+
+						FilterReader  ---> PushBackReader
+
+						InputStreamReader ： 把InputStream类型转化为Reader类型，可以指定数据源的字符编码
+
+											------>  FileReader : 是InputStreamReader的一个子类，按照本地平台的字符编码从文件中读取数据，用户不能指定其他字符编码类型；
+
+
+4、字符输出流：
+
+		Writer ----->    CharArrayWriter : 把字符写到内存中的字符数组中
+
+						 BufferedWriter : 带有缓冲区的字符输出流
+
+						 StringWriter : 
+
+						 PipedWriter :
+
+						 FilterWriter :
+
+						 PrintWriter :
+
+						 OutputStreamWriter : 适配器，把OutputStream转化为Writer ， 可以指定数据汇的字符编码
+
+						 					----->  FileWriter , 是OutputStreamWriter的一个子类，向文件中写字符，按照本地平台的字符编码向文件中写数据，用户不能指定其他字符编码类型；
+
+
+【注意：BufferedReader中有一个readLine()方法，而BufferedWriter中没有writeLine()方法。如果要输出一行字符串，应该再用PrintWriter来装饰BufferedWriter，PrintWriter的println(String s) 方法可以输出一行字符串】
+
